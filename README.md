@@ -132,7 +132,6 @@ Data + External Services
   |-- Redis/locking/cache where configured
 ```
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for a short public-safe architecture note.
 
 ## Screenshots
 
