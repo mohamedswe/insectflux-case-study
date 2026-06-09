@@ -23,7 +23,6 @@ This case study intentionally focuses on my verified ownership areas and avoids 
 
 ## Screenshots
 
-> Public-safety note: screenshots were captured from the public `insectflux.com` website while logged out. Before publishing, confirm the InsectFlux team is comfortable with public use of the brand, product listings, prices, stock labels, and any third-party product images.
 
 ### Homepage hero
 
