@@ -181,7 +181,7 @@ This project taught me that production engineering is mostly about protecting tr
 
 It pushed me from "building features" toward thinking like a backend systems engineer.
 
-## Interview summary
+## Summary
 
 If asked to explain this project quickly:
 
