@@ -147,21 +147,7 @@ Data + External Services
 
 ![InsectFlux how it works section](assets/homepage-how-it-works.png)
 
-## Interview-ready summary
 
-> I was one of three engineers on InsectFlux, a marketplace platform for the insect-farming/agri-food ecosystem. My strongest ownership areas were database migrations with forward/backward compatibility, the testing suite, webhook-driven messaging/payment reliability, and backend hardening. The most technical work involved making evolving marketplace data models safe, testing high-risk checkout/order/supplier flows, and preventing duplicate webhook/race-condition failures.
-
-## What this demonstrates
-
-This project demonstrates that I can work beyond tutorial-level software and handle backend problems that show up in real products:
-
-- schema evolution,
-- compatibility strategy,
-- reliability testing,
-- payment/webhook safety,
-- marketplace domain complexity,
-- production-readiness thinking,
-- honest collaboration in a multi-engineer project.
 
 ## Privacy note
 
