@@ -4,20 +4,26 @@
 
 ## What this is
 
-InsectFlux is a marketplace platform for the insect-farming and agri-food ecosystem. It connects suppliers and customers through marketplace workflows such as product/service discovery, checkout, messaging, reviews, payments, and supplier/customer interactions.
+InsectFlux is a data and logistics company serving the insect-farming and agri-food industry. It launched as a marketplace connecting suppliers and customers (discovery, checkout, payments, messaging, reviews) and is now expanding into data and logistics, including a delivery network for moving goods between businesses.
 
-I was one of three engineers on the project. This case study focuses only on the areas I can honestly represent as my core contributions:
+I joined as a founding engineer in August 2025, one of three engineers. This case study covers the marketplace backend, where most of my work so far has been, and focuses only on the areas I can honestly represent as my core contributions:
 
 - database migrations with forward/backward compatibility,
 - backend test infrastructure,
 - webhook-driven messaging and payment reliability,
 - backend hardening around production-critical marketplace flows.
 
+**Measured results**
+
+- Moved messaging to webhooks, cutting database reads by ~70%
+- Built backend CI to 85% test coverage
+
 The source code is private/team-owned, so this repository is a public-safe engineering case study rather than a code dump.
 
 ## My role
 
-**Role:** Backend / reliability-focused engineer  
+**Role:** Founding software engineer, backend reliability focus  
+**Dates:** August 2025 – present  
 **Team:** 3 engineers  
 **Primary focus:** migrations, tests, webhooks, messaging reliability, backend hardening  
 **Stack involved:** Python, FastAPI, Firebase/Firestore, Stripe, Docker, TypeScript/React, Cloudinary, Redis-style locking/cache patterns
