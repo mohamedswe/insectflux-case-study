@@ -6,7 +6,7 @@
 
 InsectFlux is a data and logistics company serving the insect-farming and agri-food industry. It launched as a marketplace connecting suppliers and customers (discovery, checkout, payments, messaging, reviews) and is now expanding into data and logistics, including a delivery network for moving goods between businesses.
 
-I joined as a founding engineer in August 2025, one of three engineers. This case study covers the marketplace backend, where most of my work so far has been, and focuses only on the areas I can honestly represent as my core contributions:
+I joined as a software engineer in August 2025, one of three engineers. This case study covers the marketplace backend, where most of my work so far has been, and focuses only on the areas I can honestly represent as my core contributions:
 
 - database migrations with forward/backward compatibility,
 - backend test infrastructure,
@@ -22,7 +22,7 @@ The source code is private/team-owned, so this repository is a public-safe engin
 
 ## My role
 
-**Role:** Founding software engineer, backend reliability focus  
+**Role:** Software engineer, backend reliability focus  
 **Dates:** August 2025 – present  
 **Team:** 3 engineers  
 **Primary focus:** migrations, tests, webhooks, messaging reliability, backend hardening  
